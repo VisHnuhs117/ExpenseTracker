@@ -46,6 +46,6 @@ An Android application that helps users **track and manage expenses** with **ML-
 ### Installation
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/ExpenseTracker-ML.git
+git clone https://github.com/VisHnuhs117/ExpenseTracker-ML.git
 
 # Open in Android Studio and run on emulator/device
