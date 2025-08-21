@@ -25,7 +25,7 @@ An Android application that helps users **track and manage expenses** with **ML-
 ---
 
 ## 📷 Screenshots
-> *(![WhatsApp Image 2025-08-21 at 18 05 08_bba494f0](https://github.com/user-attachments/assets/56507265-354b-442d-bf8f-aa918478f51b)*  
+> *![WhatsApp Image 2025-08-21 at 18 05 08_bba494f0](https://github.com/user-attachments/assets/56507265-354b-442d-bf8f-aa918478f51b)*  
 
 ---
 
