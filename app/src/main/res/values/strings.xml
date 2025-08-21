@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">ExpenseTracker</string>
+
+    <!-- Main screens -->
+    <string name="home_title">Expense Tracker</string>
+    <string name="add_expense_title">Add Expense</string>
+    <string name="scan_receipt_title">Scan Receipt</string>
+    <string name="expense_list_title">All Expenses</string>
+
+    <!-- Home screen -->
+    <string name="total_spending">Total Spending</string>
+    <string name="spending_by_category">Spending by Category</string>
+    <string name="recent_expenses">Recent Expenses</string>
+    <string name="no_expenses_message">No expenses yet.\nTap + to add an expense or 📷 to scan a receipt!</string>
+    <string name="view_all_expenses">View All Expenses</string>
+
+    <!-- Add expense -->
+    <string name="amount_hint">0.00</string>
+    <string name="description_hint">What did you spend on?</string>
+    <string name="merchant_hint">Store or business name</string>
+    <string name="category_label">Category</string>
+    <string name="merchant_optional">Merchant (Optional)</string>
+    <string name="save_expense">Save Expense</string>
+    <string name="receipt_scan_indicator">This expense was created from a receipt scan</string>
+
+    <!-- Camera -->
+    <string name="position_receipt">Position the receipt within the frame</string>
+    <string name="processing_receipt">Processing receipt...</string>
+    <string name="extracted_information">Extracted Information</string>
+    <string name="confidence_label">Confidence:</string>
+    <string name="items_label">Items:</string>
+    <string name="retake_photo">Retake</string>
+    <string name="continue_button">Continue</string>
+
+    <!-- Permissions -->
+    <string name="camera_permission_required">Camera permission is required to scan receipts. Please grant permission to continue.</string>
+    <string name="camera_permission_needed">Camera permission is needed to scan receipts.</string>
+    <string name="grant_permission">Grant Permission</string>
+
+    <!-- Expense list -->
+    <string name="total_expenses">Total Expenses</string>
+    <string name="transactions_count">%d transactions</string>
+    <string name="no_expenses_title">No expenses yet</string>
+    <string name="no_expenses_subtitle">Start tracking your expenses by adding your first transaction</string>
+
+    <!-- Delete dialog -->
+    <string name="delete_expense_title">Delete Expense</string>
+    <string name="delete_expense_message">Are you sure you want to delete this expense? This action cannot be undone.</string>
+    <string name="delete_button">Delete</string>
+    <string name="cancel_button">Cancel</string>
+
+    <!-- Error messages -->
+    <string name="error_invalid_amount">Please enter a valid amount</string>
+    <string name="error_empty_description">Please enter a description</string>
+    <string name="error_save_expense">Failed to save expense</string>
+    <string name="error_process_receipt">Failed to process receipt</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_back">Back</string>
+    <string name="cd_add_expense">Add Expense</string>
+    <string name="cd_scan_receipt">Scan Receipt</string>
+    <string name="cd_view_all_expenses">View All Expenses</string>
+    <string name="cd_camera_capture">Capture</string>
+    <string name="cd_select_date">Select Date</string>
+    <string name="cd_from_receipt">From receipt</string>
+    <string name="cd_delete_expense">Delete</string>
+    <string name="cd_filter_expenses">Filter</string>
+</resources>
